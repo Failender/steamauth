@@ -43,7 +43,7 @@ http://localhost:<port>
 ## Authors
 
 
-ex. [@Failender](https://github.com/failender)
+[@Failender](https://github.com/failender)
 
 ## License
 
